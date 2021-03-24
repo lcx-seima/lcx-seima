@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- name: Visitor Badge
+  uses: bubkoo/visitor-badge@v1.0.0
