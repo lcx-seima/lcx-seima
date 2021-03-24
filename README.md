@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- name: Visitor Badge
-  uses: bubkoo/visitor-badge@v1.0.0
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lcxseima.homepage)
